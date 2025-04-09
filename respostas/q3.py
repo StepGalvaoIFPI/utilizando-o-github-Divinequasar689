@@ -1,1 +1,1 @@
-#Crie um programa que exiba as seguintes informações, cada uma em uma linha:
+print("Nome:Francisco Gabriel dos Santos Oliveira Cruz Idade:18 Cidade natal:Monte Castelo Estado:Teresina")
